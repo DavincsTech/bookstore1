@@ -1,8 +1,0 @@
-
-services:
-  - type: web
-    name: bookstore-auth
-    env: docker
-    dockerfilePath: Dockerfile
-    plan: free
-    autoDeploy: true
